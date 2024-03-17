@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vaibhav panwar from INDIA
+- 👋 Hi, Vaibhav Panwar this side!
 - 👀 I Work on Web Applications for faster and smoother user experience
 - 🌱 I’m continuously learning Web related technologies to enhance my skills
 - 📫 You can reach me @ panwarvaibhav009@gmail.com
