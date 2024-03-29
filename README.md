@@ -1,6 +1,7 @@
 - 👋 Hi, Vaibhav Panwar this side!
 - 👀 I Work on Web Applications for faster and smoother user experience
 - 🌱 I’m continuously learning Web related technologies to enhance my skills
+- 🌱 Currently I'm learning Next.js
 - 📫 You can reach me @ panwarvaibhav009@gmail.com
   
   
